@@ -1,0 +1,9 @@
+{
+  "description": "Examples of `rpc-stream` and `dnode`, using node and websockets.",
+  "dependencies": {
+    "dnode": "^1.2.2",
+    "ecstatic": "^1.4.0",
+    "rpc-stream": "^2.1.2",
+    "shoe": "0.0.15"
+  }
+}
